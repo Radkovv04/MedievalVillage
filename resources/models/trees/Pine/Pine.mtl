@@ -1,0 +1,28 @@
+# Each map_Kd PNG is located beside this MTL.
+newmtl Pine_Bark
+Ka 0.16 0.16 0.16
+Kd 0.424 0.282 0.208
+Ks 0 0 0
+Ns 1
+d 1
+illum 1
+map_Kd pine_bark.png
+
+newmtl Pine_Needles
+Ka 0.16 0.16 0.16
+Kd 0.220 0.412 0.271
+Ks 0 0 0
+Ns 1
+d 1
+illum 1
+map_Kd pine_needles.png
+
+newmtl Pine_Needles_Light
+Ka 0.16 0.16 0.16
+Kd 0.365 0.537 0.318
+Ks 0 0 0
+Ns 1
+d 1
+illum 1
+map_Kd pine_needles_light.png
+

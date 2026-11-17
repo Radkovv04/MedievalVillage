@@ -1,0 +1,20 @@
+# Made in Blockbench 5.2.2
+newmtl m_52f2533d-e7fc-cbe6-36ff-1d6eb0fb9dd0
+map_Kd wood.png
+newmtl m_6c7a3263-4736-ab9d-acdf-ceef3287b6bb
+map_Kd roof.png
+newmtl m_5a3f3ac8-eadf-2ce0-d964-e84418ccd2f0
+map_Kd roof_storehouse.png
+newmtl m_4de22516-c481-957e-4211-49838bad354c
+map_Kd wood_smithy.png
+newmtl m_4f31dd53-18a7-3d21-5511-d25b83e69258
+map_Kd plaster_smithy.png
+newmtl m_4ab41708-76a7-60c6-7dfa-8f4453fa9547
+map_Kd stone.png
+newmtl m_075cf663-1332-fd62-aee6-ef412db1f98e
+map_Kd plaster.png
+newmtl m_3d92cbb9-c68b-d14c-584d-96c966cc42b4
+map_Kd stone.png
+newmtl m_36aecde5-4bb7-3cbb-e118-468ae469e01b
+map_Kd wood_storehouse.png
+newmtl none

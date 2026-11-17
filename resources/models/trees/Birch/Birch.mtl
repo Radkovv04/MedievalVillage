@@ -1,0 +1,28 @@
+# Each map_Kd PNG is located beside this MTL.
+newmtl Birch_Bark
+Ka 0.16 0.16 0.16
+Kd 0.898 0.855 0.776
+Ks 0 0 0
+Ns 1
+d 1
+illum 1
+map_Kd birch_bark.png
+
+newmtl Birch_Leaves
+Ka 0.16 0.16 0.16
+Kd 0.502 0.675 0.314
+Ks 0 0 0
+Ns 1
+d 1
+illum 1
+map_Kd birch_leaves.png
+
+newmtl Birch_Leaves_Light
+Ka 0.16 0.16 0.16
+Kd 0.675 0.776 0.420
+Ks 0 0 0
+Ns 1
+d 1
+illum 1
+map_Kd birch_leaves_light.png
+

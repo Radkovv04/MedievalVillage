@@ -1,0 +1,28 @@
+# Each map_Kd PNG is located beside this MTL.
+newmtl Oak_Bark
+Ka 0.16 0.16 0.16
+Kd 0.510 0.325 0.208
+Ks 0 0 0
+Ns 1
+d 1
+illum 1
+map_Kd oak_bark.png
+
+newmtl Oak_Leaves
+Ka 0.16 0.16 0.16
+Kd 0.494 0.627 0.259
+Ks 0 0 0
+Ns 1
+d 1
+illum 1
+map_Kd oak_leaves.png
+
+newmtl Oak_Leaves_Light
+Ka 0.16 0.16 0.16
+Kd 0.624 0.725 0.337
+Ks 0 0 0
+Ns 1
+d 1
+illum 1
+map_Kd oak_leaves_light.png
+
