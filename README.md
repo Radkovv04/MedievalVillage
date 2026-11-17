@@ -13,7 +13,7 @@ Template project for computer graphics labs for TU Sofia.
 2. Open a terminal in your folder.
 3. Run:
     ```sh
-    git clone https://github.com/georgievtu/computer-graphics
+    git clone https://github.com/Radkovv04/MedievalVillage
     ```
 
 ## Build
@@ -30,7 +30,7 @@ Supports Premake and CMake:
 1. Download Visual Studio.
 2. Choose "Desktop development with C++" during installation.
 3. Run `Premake-Windows.bat` (double click)
-4. Open the generated `ComputerGraphics.sln` file in Visual Studio.
+4. Open the generated `MedievalVillage.sln` file in Visual Studio.
 
 #### Linux (GNU Make)
 1. Download the GNU build tools package with your package manager. Example for Debian:
